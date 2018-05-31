@@ -83,8 +83,4 @@ window.onload = function() {
     console.log(maxBy.Age);
     //最小値:28
 
-    const sum = _.sum(people, p => p.Age);
-    console.log(sum);
-    //最小値:28
-
 };
